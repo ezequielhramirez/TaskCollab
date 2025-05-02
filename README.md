@@ -33,7 +33,7 @@
 
 ### Funcionalidades desarrolladas
 
-- ✅ Interfaz responsive mediante **CSS + Bootstrap**.
+- ✅ Interfaz responsive mediante **CSS**.
 - ✅ Estructura **HTML semántica**.
 - ✅ Lógica en **JavaScript puro**.
 - ✅ Añadir tareas dinámicamente.
